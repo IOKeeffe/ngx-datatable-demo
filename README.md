@@ -6,22 +6,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Goal
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Build an ngx-datatable using the data in `dataSource.ts`. Try loading it both synchronously and asynchronously. Try building columns by mapping keys to the `name` field on the columns, then try using a different `name` and mapping the key to the `prop` category. Use `ng-template` and `let-value` / `let-row` to have more flexibility with how the rows appear.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Resources
+[ngx-datatable api](https://swimlane.gitbook.io/ngx-datatable/api)
+[ngx-datatable demos with sourcecode](http://swimlane.github.io/ngx-datatable/)
