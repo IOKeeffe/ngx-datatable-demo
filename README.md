@@ -12,4 +12,5 @@ Build an ngx-datatable using the data in `dataSource.ts`. Try loading it both sy
 
 ## Resources
 [ngx-datatable api](https://swimlane.gitbook.io/ngx-datatable/api)
+
 [ngx-datatable demos with sourcecode](http://swimlane.github.io/ngx-datatable/)
